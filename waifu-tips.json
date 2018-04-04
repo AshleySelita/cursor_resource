@@ -1,1 +1,89 @@
-{ "mouseover": [ { "selector": ".container a[href^='http']", "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"] }, { "selector": ".fui-home", "text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦"] }, { "selector": "#night_mode", "text": ["深夜时要爱护眼睛呀"] }, { "selector": "#back-to-top", "text": ["回到开始的地方吧"] }, { "selector": "#textarea", "text": ["评论请认真填写哦"] }, { "selector": ".previous", "text": ["去上一页看看吧"] }, { "selector": ".next", "text": ["去下一页看看吧"] }, { "selector": ".waifu #live2d", "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！"] } ], "click": [ { "selector": ".waifu #live2d", "text": ["是…是不小心碰到了吧", "萝莉控是什么呀", "你看到我的小熊了吗", "再摸的话我可要报……报警了！⌇●﹏●⌇", "110吗，这里有个变态一直在摸我(ó﹏ò｡)"] } ] }
+{
+    "mouseover": [
+        {
+            "selector": ".container a[href^='http']",
+            "text": [
+                "要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"
+            ]
+        },
+        {
+            "selector": ".fui-home",
+            "text": [
+                "点击前往首页，想回到上一页可以使用浏览器的后退功能哦"
+            ]
+        },
+        {
+            "selector": ".fui-eye",
+            "text": [
+                "要切换看板娘吗？"
+            ]
+        },
+        {
+            "selector": ".fui-user",
+            "text": [
+                "要给我换件衣服吗？"
+            ]
+        },
+        {
+            "selector": ".fui-photo",
+            "text": [
+                "要给我拍张照吗？"
+            ]
+        },
+        {
+            "selector": ".fui-cross",
+            "text": [
+                "到了要说再见的时候了吗？"
+            ]
+        },
+        {
+            "selector": "#night_mode",
+            "text": [
+                "深夜时要爱护眼睛呀"
+            ]
+        },
+        {
+            "selector": "#back-to-top",
+            "text": [
+                "回到开始的地方吧"
+            ]
+        },
+        {
+            "selector": "#textarea",
+            "text": [
+                "评论请认真填写哦"
+            ]
+        },
+        {
+            "selector": ".previous",
+            "text": [
+                "去上一页看看吧"
+            ]
+        },
+        {
+            "selector": ".next",
+            "text": [
+                "去下一页看看吧"
+            ]
+        },
+        {
+            "selector": ".waifu #live2d",
+            "text": [
+                "干嘛呢你，快把手拿开",
+                "鼠…鼠标放错地方了！"
+            ]
+        }
+    ],
+    "click": [
+        {
+            "selector": ".waifu #live2d",
+            "text": [
+                "是…是不小心碰到了吧",
+                "萝莉控是什么呀",
+                "你看到我的小熊了吗",
+                "再摸的话我可要报……报警了！⌇●﹏●⌇",
+                "110吗，这里有个变态一直在摸我(ó﹏ò｡)"
+            ]
+        }
+    ]
+}
